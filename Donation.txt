@@ -5,5 +5,4 @@ Sl.No.	Name		Address		Blood-Group		Diabetic
 3	Sushanta Saha   Nabadwip	AB-			No
 4       Supratick Mondal kolkata        A+                      NO                           
 5.      Baidurya Debnath Howrah         B+                      No
-6. Priyanka Dey      Burdwan    B+        No
 7. Sayandeb Sarkae jalpaiguri  B+  No
