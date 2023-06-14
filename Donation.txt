@@ -6,3 +6,4 @@ Sl.No.	Name		Address		Blood-Group		Diabetic
 4       Supratick Mondal kolkata        A+                      NO                           
 5.      Baidurya Debnath Howrah         B+                      No
 7. Sayandeb Sarkae jalpaiguri  B+  No
+8.  Ankit Pandey    Kolkata    A+      No
