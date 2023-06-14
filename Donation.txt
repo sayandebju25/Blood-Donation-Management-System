@@ -1,0 +1,5 @@
+                                           Blood Donation Bank Details
+Sl.No.	Name		Address		Blood-Group		Diabetic
+1	Soubhagya Khan	Asansol		O+			No
+2	Amar Jyoti Khan Shantipur	A+			Yes
+3	Sushanta Saha   Nabadwip	AB-			No
